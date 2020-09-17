@@ -47,12 +47,12 @@
 		background-color: var(--color-text-gray-dark);
 	}
 
-	:global(:-webkit-scrollbar-track) {
+	:global(::-webkit-scrollbar-track) {
 		box-shadow: inset 0 0 10px #00000070;
 		border-radius: 5px;
 	}
 
-	:global(:-webkit-scrollbar-thumb) {
+	:global(::-webkit-scrollbar-thumb) {
 		background: linear-gradient(125deg, var(--color-green), var(--color-red));
 		border-radius: 5px;
 	}
