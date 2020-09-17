@@ -11,7 +11,7 @@
 
 Preview:
 
-- https://byredhunter.github.io/react-landing-404/
+- https://laughing-fermat-30077f.netlify.app/
   ![image](https://repository-images.githubusercontent.com/296186495/b1aff580-f85c-11ea-8351-5f14651bc83b)
 
 _Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)_
